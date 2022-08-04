@@ -3,7 +3,7 @@
 
 ---
 title: "IST 687 Group 5 Final Project"
-author: "Elissa Carroll, Katie Pierce, Mahboobeh Hosseini, Sok Leng Chan"
+author: "Mahboobeh Hosseini,Elissa Carroll, Katie Pierce,  Sok Leng Chan"
 date: "12/15/2020"
 output: html_document
 ---
